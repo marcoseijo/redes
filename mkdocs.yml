@@ -1,0 +1,6 @@
+site_name: marcoseijo/redes
+theme:
+  name: material
+
+nav:
+  - Inicio: index.md
