@@ -1,12 +1,15 @@
-# Inicio de la aventura
+# 🌐 Tu aventura como admin de sistemas
 
-Llegas a la sala de servidores y descubres varios problemas:
+¡Buenos días, admin! ☕💻  
 
-1. Algunos ordenadores no se comunican correctamente → podría ser problema de **IP**.  
-2. Un switch no está funcionando como debería → necesita **configuración detallada**.  
-3. Un alumno ha hecho un lío con los cables y quieres repasar cómo viaja la información → **Modelo OSI**.
+Llegas a tu oficina y lo primero que notas es que la red está en un caos:  
+- Algunos ordenadores no se comunican entre sí… 
+- Uno de los switches está parpadeando de manera extraña… 
+- Un alumno ha enchufado todo sin ton ni son...
 
-## ¿Qué quieres hacer primero?
+Tu misión: resolver los problemas, aprender conceptos clave y, si te atreves, ¡salvar la red del instituto sin perder los nervios!  
+
+## ¿Por dónde quieres empezar?
 
 - [Investigar IPv4](../../nodos/ipv4.md)  
 - [Configurar Switch](../../nodos/switch.md)  
